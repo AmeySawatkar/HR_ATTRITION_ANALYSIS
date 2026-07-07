@@ -117,13 +117,13 @@ The dashboard consists of **three interactive pages**, each focused on a specifi
 ## 9. Dashboard Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ### Employee Insights
-![Employee Insights](Screenshots/Employee_Insights.png)
+![Employee Insights](Employee_Insights.png)
 
 ### Attrition Analysis
-![Attrition Analysis](Screenshots/Attrition_Analysis.png)
+![Attrition Analysis](Attrition_Analysis.png)
 
 ---
 
