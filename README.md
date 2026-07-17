@@ -2,6 +2,10 @@
 
 *A Data Analytics internship project focused on employee attrition analysis using Python, MySQL, SQL, and Power BI.*
 
+## 🎥 Project Demo
+
+[▶️ Watch the HR Attrition Analysis Dashboard Demo](https://drive.google.com/file/d/1S59lWK905HBLDs0DPbczw-PoKjQHrWn2/view?usp=drivesdk)
+
 ---
 
 ## 1. Project Overview
